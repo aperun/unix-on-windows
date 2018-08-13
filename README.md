@@ -12,3 +12,7 @@ Bringing UNIX utilities to native Windows
     the Windows platform natively so that users of the ported software
     can use Windows utilities along side without layers of abstraction to
     slow/complicate the process.
+
+## Disclaimer {#disclaim}
+  Windows, Microsoft, and all others terms associated are owned by
+    Microsoft Corporation and/or its subsidiaries.
